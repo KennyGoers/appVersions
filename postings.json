@@ -1,0 +1,10 @@
+{
+  "latestVersion": "4.1.2",
+  "latestVersionCode": 18081619,
+  "url": "https://github.com/javiersantos/AppUpdater/releases",
+  "releaseNotes": [
+    "Posting Improvements and bug fixes, especially around Bicycle, Car and RV categories",
+	"Increased the maximum number of search alerts for a search",
+	"A number of smaller bug fixes"
+  ]
+}
